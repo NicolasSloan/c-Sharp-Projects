@@ -1,0 +1,14 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMathAssignment.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMathAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMathAssignment.AssemblyInfoInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMathAssignment.AssemblyInfo.cs
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMathAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\bin\Debug\netcoreapp3.1\ConsoleAppMathAssignment.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\bin\Debug\netcoreapp3.1\ConsoleAppMathAssignment.deps.json
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\bin\Debug\netcoreapp3.1\ConsoleAppMathAssignment.runtimeconfig.json
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\bin\Debug\netcoreapp3.1\ConsoleAppMathAssignment.runtimeconfig.dev.json
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\bin\Debug\netcoreapp3.1\ConsoleAppMathAssignment.dll
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\bin\Debug\netcoreapp3.1\ConsoleAppMathAssignment.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMathAssignment.dll
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMathAssignment.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleAppMathAssignment\obj\Debug\netcoreapp3.1\ConsoleAppMathAssignment.genruntimeconfig.cache
