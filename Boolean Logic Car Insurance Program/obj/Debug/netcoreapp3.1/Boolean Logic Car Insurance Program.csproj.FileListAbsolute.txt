@@ -1,0 +1,14 @@
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\bin\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.exe
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\bin\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.deps.json
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\bin\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.runtimeconfig.json
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\bin\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.runtimeconfig.dev.json
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\bin\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.dll
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\bin\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.pdb
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\obj\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\obj\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\obj\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.AssemblyInfoInputs.cache
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\obj\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.AssemblyInfo.cs
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\obj\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\obj\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.dll
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\obj\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.pdb
+C:\Users\sonic\source\repos\Boolean Logic Car Insurance Program\obj\Debug\netcoreapp3.1\Boolean Logic Car Insurance Program.genruntimeconfig.cache
