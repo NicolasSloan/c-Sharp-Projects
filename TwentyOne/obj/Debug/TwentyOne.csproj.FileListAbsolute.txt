@@ -1,0 +1,17 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleApp1\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleApp1\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\TwentyOne\bin\Debug\Casino.dll
