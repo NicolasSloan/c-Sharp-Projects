@@ -80,3 +80,4 @@ C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\NewsletterAppMVC\obj\D
 C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CopyComplete
 C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.dll
 C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\c-Sharp-Projects\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.AssemblyReference.cache
